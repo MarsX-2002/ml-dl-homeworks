@@ -1,3 +1,17 @@
 ml/lesson-1/homework/data/titanic.csv
 dl/lesson-1/homework/image2.png
 dl/lesson-1/homework/image.png
+venv
+__pycache__
+.venv
+dl/lesson-7/homework/checkpoint.pth
+dl/lesson-7/homework/fashion_mnist_torch.pth
+dl/lesson-7/homework/data/FashionMNIST/raw/t10k-images-idx3-ubyte
+dl/lesson-7/homework/data/FashionMNIST/raw/t10k-images-idx3-ubyte.gz
+dl/lesson-7/homework/data/FashionMNIST/raw/t10k-labels-idx1-ubyte
+dl/lesson-7/homework/data/FashionMNIST/raw/t10k-labels-idx1-ubyte.gz
+dl/lesson-7/homework/data/FashionMNIST/raw/train-images-idx3-ubyte
+dl/lesson-7/homework/data/FashionMNIST/raw/train-images-idx3-ubyte.gz
+dl/lesson-7/homework/data/FashionMNIST/raw/train-labels-idx1-ubyte
+dl/lesson-7/homework/data/FashionMNIST/raw/train-labels-idx1-ubyte.gz
+dl/lesson-7/homework/fashion_mnist_full_model.pth
