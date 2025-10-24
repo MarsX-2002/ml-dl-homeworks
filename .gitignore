@@ -15,3 +15,5 @@ dl/lesson-7/homework/data/FashionMNIST/raw/train-images-idx3-ubyte.gz
 dl/lesson-7/homework/data/FashionMNIST/raw/train-labels-idx1-ubyte
 dl/lesson-7/homework/data/FashionMNIST/raw/train-labels-idx1-ubyte.gz
 dl/lesson-7/homework/fashion_mnist_full_model.pth
+dl/lesson-8/homework/datasets/celeba/img_align_celeba
+dl/lesson-8/homework/datasets
